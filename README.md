@@ -1,9 +1,6 @@
 Windows / Linux (same commands):
 
 
-git clone https://github.com/SUBHO883/PassCheck.git
-cd PassCheck
-
 
 Python virtual environment setup (recommended)
 
