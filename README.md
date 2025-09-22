@@ -24,7 +24,7 @@ It evaluates passwords as **Very Weak, Weak, Reasonable, Strong, or Very Strong*
 
 ## 📂 Files
 
-- `password_audit.py` → Main Python script  
+- `password_audit` → Main Python script  
 - `requirements.txt` → Dependencies (currently empty)  
 - `.gitignore` → Ignore cache and sensitive files
 
@@ -61,14 +61,7 @@ pip install -r requirements.txt
 
 
 
-# PassCheck
 
-**PassCheck** is a simple educational Python tool to audit password strength and entropy.  
-It checks whether a password is **Very Weak, Weak, Reasonable, Strong, or Very Strong**, detects common patterns, and provides advice to improve security.
-
-> ⚠️ **Warning:** Only use this tool on passwords you own. Do **not** test other people's passwords.
-
----
 
 ## Features
 
@@ -76,8 +69,6 @@ It checks whether a password is **Very Weak, Weak, Reasonable, Strong, or Very S
 - Detects common patterns (repeating chars, all digits, common passwords)
 - Gives actionable advice to strengthen your password
 - Continuous interactive mode (runs until you press Ctrl+C)
-- One-time CLI mode with `-p` argument
-
 
 ---
 
