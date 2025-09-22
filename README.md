@@ -24,7 +24,7 @@ It evaluates passwords as **Very Weak, Weak, Reasonable, Strong, or Very Strong*
 
 ## 📂 Files
 
-- `password_audit` → Main Python script  
+- `password_audit.py` → Main Python script  
 - `requirements.txt` → Dependencies (currently empty)  
 - `.gitignore` → Ignore cache and sensitive files
 
